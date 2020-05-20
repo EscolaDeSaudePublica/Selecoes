@@ -8,7 +8,7 @@ Scrum
 - **Gerente**: @uira
 - **ProductOwner**: @rmadev-master
 - **Equipe de Desenvolvimento (DevTeam)**: @victorMagalhaesPacheco @rmadev-master @junior-shyko @rodrigoplimafreire
-- **Scrum Master**: a definir
+- **Scrum Master**: @rmadev-master
 
 ## Cerimônias
 - **Planning** Segundas-feiras, as 14hs (duração 1h).
