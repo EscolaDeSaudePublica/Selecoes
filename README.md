@@ -18,7 +18,7 @@ Scrum
 - https://github.com/EscolaDeSaudePublica/Selecoes
 
 ## Sprints
-- https://github.com/EscolaDeSaudePublica/Selecoes/projects/1
+- https://github.com/orgs/EscolaDeSaudePublica/projects/24
 
 ## Priorizações
 - https://github.com/EscolaDeSaudePublica/Selecoes/labels
