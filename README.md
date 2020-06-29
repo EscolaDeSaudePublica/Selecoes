@@ -13,6 +13,8 @@ Scrum
 ## Cerimônias
 - **Planning** Segundas-feiras, as 14hs (duração 1h).
 - **Reunião Diária** Não haverá
+- **Quórum** 3
+- **Tolerância** 15min
 
 ## Repositório
 - https://github.com/EscolaDeSaudePublica/Selecoes
